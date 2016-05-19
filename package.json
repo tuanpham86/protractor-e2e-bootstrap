@@ -19,6 +19,6 @@
     "grunt-contrib-jshint": "^0.9.2",
     "grunt-protractor-runner": "^0.2.4",
     "grunt-shell-spawn": "^0.3.0",
-    "protractor-html-screenshot-reporter": "0.0.4"
+    "protractor-html-screenshot-reporter": "0.0.21"
   }
 }
